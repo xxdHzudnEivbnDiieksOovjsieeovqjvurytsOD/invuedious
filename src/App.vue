@@ -62,7 +62,7 @@ export default {
           "important"
         );
       } else {
-        document.documentElement.style.setProperty("--primary", "#c3073f");
+        document.documentElement.style.setProperty("--primary", "#47583c");
         document.documentElement.style.setProperty("--secondary", "#da5973");
         document.documentElement.style.setProperty("--bg-dark", "#131313");
         document.body.style.setProperty("background-color", "");
