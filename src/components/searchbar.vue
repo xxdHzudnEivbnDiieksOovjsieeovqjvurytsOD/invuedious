@@ -58,5 +58,6 @@ export default {
   border-radius: 0.3em;
   padding: 0 1em;
   font-size: 16px;
+  outline: none;
 }
 </style>
